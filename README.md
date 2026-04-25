@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0f0f,50:1a1a2e,100:e63946&amp;height=200&amp;section=header&amp;text=Ziad%20Ahmed&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=AI%20%26%20Data%20Engineering%20%7C%20ML%20Systems%20Builder&amp;descAlignY=58&amp;descColor=e63946&amp;animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:e63946&height=200&section=header&text=Ziad%20Ahmed&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20and%20Data%20Engineering%20%7C%20ML%20Systems%20Builder&descAlignY=58&descColor=e63946&animation=fadeIn" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Building+end-to-end+ML+pipelines;Turning+raw+data+into+production+systems;Mechanical+Eng+→+AI+Engineering;Predictive+Maintenance+%7C+Clinical+AI+%7C+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Building+end-to-end+ML+pipelines;Turning+raw+data+into+production+systems;Mechanical+Eng+%E2%86%92+AI+Engineering;Predictive+Maintenance+%7C+Clinical+AI+%7C+Analytics" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -195,6 +195,3 @@ ziad = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e63946,50:1a1a2e,100:0f0f0f&height=120&section=footer" />
 
 </div>
-
-
--->
